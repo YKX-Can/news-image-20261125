@@ -1,0 +1,41 @@
+{
+  "date_line": "WEDNESDAY, NOVEMBER 25, 2026",
+  "hero": {
+    "chip": "SPACE / CHINA",
+    "detail": "Lift-off at 08:18 from Jiuquan. A Pakistani astronaut will ride Shenzhou-23 home, a new step in international crew cooperation.",
+    "headline": "Shenzhou-24 Crewed Spaceship Blasts Off"
+  },
+  "stories": [
+    {
+      "chip": "SPORT / AMERICAS",
+      "detail": "FIFA names the USA, Mexico, Costa Rica and Jamaica as co-hosts; the finals grow to 48 teams.",
+      "headline": "2031 Women's World Cup Goes to Four Hosts"
+    },
+    {
+      "chip": "ASIA / INFRASTRUCTURE",
+      "detail": "A French-Korean-Vietnamese consortium wins the early consultancy contract.",
+      "headline": "Vietnam's $67B High-Speed Rail Moves Ahead"
+    },
+    {
+      "chip": "MIDDLE EAST",
+      "detail": "Tehran's ruling lands as Trump likewise demands compensation from Iran.",
+      "headline": "Iran Court Orders US to Pay $290 Billion"
+    },
+    {
+      "chip": "SECURITY / ASIA-PACIFIC",
+      "detail": "The long patrol over neutral waters was shadowed along some legs by foreign fighter jets.",
+      "headline": "Russian Bombers Fly 10 Hours Over Sea of Japan"
+    },
+    {
+      "chip": "BUSINESS / CHINA-US",
+      "detail": "Xiamen Airlines plans to buy 50 Boeing 737-8 jets in a landmark deal.",
+      "headline": "Boeing Wins First Big China Order in 9 Years"
+    },
+    {
+      "chip": "TECH / STANDARDS",
+      "detail": "The international standards span data governance and human-machine interaction.",
+      "headline": "China Leads 78 New Global AI Standards"
+    }
+  ],
+  "ticker": "ALSO TODAY: PBOC lands a liquidity combo of 800B yuan MLF + 500B yuan reverse repos  |  China fuel prices set for a second straight cut, 92-octane gasoline nearing the 7-yuan era"
+}
