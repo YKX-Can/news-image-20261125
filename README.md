@@ -1,7 +1,11 @@
 # The World Today — one-image news summary for 2026-11-25
 
-Entry for the make.fun bounty **“Sum up 25 November's world news in one image”**
-(https://make.fun/bounty/news-image-20261125).
+[![make.fun bounty](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+![rank](https://make.fun/badge/news-image-20261125/YKX-Can/news-image-20261125/rank.svg)
+![reward](https://make.fun/badge/news-image-20261125/YKX-Can/news-image-20261125/reward.svg)
+
+Entry for the make.fun bounty **“Sum up 25 November's world news in one image”**:
+[bounty page](https://make.fun/bounty/news-image-20261125).
 
 ## What it does
 
